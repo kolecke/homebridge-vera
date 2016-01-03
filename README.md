@@ -12,12 +12,10 @@ Vera plugin for homebridge: https://github.com/nfarina/homebridge
 Configuration sample:
 
  ```
-"platforms": [
-        {
-          "platform": "Vera",
-          "name": "Vera",
-          "host": "192.168.1.100"
-        }   
-    ]
+"platforms": [{
+    "platform": "Vera",
+    "name": "Vera",
+    "host": "192.168.1.100"
+}]
 
 ```
